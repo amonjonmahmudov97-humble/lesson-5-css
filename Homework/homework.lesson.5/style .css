@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(208, 155, 86);
+
+}
+.content1{
+    width: 500px;
+    margin: 20px;
+    background-color: white;
+    align-items: center;
+    padding: 10px;
+    border: 5px solid black;
+}
+.content2{
+    width: 500px;
+    margin: 20px;
+    background-color: white;
+    align-items: center;
+    padding: 10px;
+    border: 5px solid black;
+}
+.content3{
+    width: 500px;
+    margin: 20px;
+    background-color: white;
+    align-items: center;
+    padding: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+.content4{
+    width: 500px;
+    margin: 20px;
+    background-color: white;
+    align-items: center;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+
+
+
+
+
+
+
+    
